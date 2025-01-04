@@ -4,6 +4,9 @@
 
 - Create a new React app using `npx create-react-app netflix-gpt`
 - Configured tailwindcss
+- Header
+- Login form
+- Sign Up form
 
 ...
 # Features :
